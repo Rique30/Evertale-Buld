@@ -95,7 +95,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的花嫁",
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的花嫁",
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的花嫁"
+    ]
   },
   {
     "id": 8,
@@ -154,7 +159,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/亚瑟王——骑士王的休息",
+      "https://wiki.biligame.com/evertale/亚瑟王——骑士王的休息",
+      "https://wiki.biligame.com/evertale/亚瑟王——骑士王的休息"
+    ]
   },
   {
     "id": 12,
@@ -200,7 +210,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/灰姑娘——水晶鞋公主",
+      "https://wiki.biligame.com/evertale/灰姑娘——水晶鞋公主",
+      "https://wiki.biligame.com/evertale/灰姑娘——水晶鞋公主"
+    ]
   },
   {
     "id": 15,
@@ -1197,7 +1212,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/灰姑娘——水边的公主",
+      "https://wiki.biligame.com/evertale/灰姑娘——水边的公主",
+      "https://wiki.biligame.com/evertale/灰姑娘——水边的公主"
+    ]
   },
   {
     "id": 91,
@@ -1490,7 +1510,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/白雪公主——白与黑的公主",
+      "https://wiki.biligame.com/evertale/白雪公主——白与黑的公主",
+      "https://wiki.biligame.com/evertale/白雪公主——白与黑的公主"
+    ]
   },
   {
     "id": 113,
@@ -1523,7 +1548,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的侍女",
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的侍女",
+      "https://wiki.biligame.com/evertale/白雪公主——纯雪的侍女"
+    ]
   },
   {
     "id": 115,
@@ -1608,7 +1638,26 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/赛勒斯——繁幻策动者",
+      "https://wiki.biligame.com/evertale/赛勒斯——繁幻策动者",
+      "https://wiki.biligame.com/evertale/赛勒斯——繁幻策动者"
+    ],
+    "imageCandidates": [
+      {
+        "url": "https://cdn.archivum.dev/file/butterflytheory/evertale/monsters/355585/portrait.png",
+        "stage": null,
+        "verification": "pending",
+        "source": "https://www.archivum.dev/en/evertale/monster/0168"
+      },
+      {
+        "url": "https://cdn.archivum.dev/file/butterflytheory/evertale/monsters/be638f/portrait.png",
+        "stage": null,
+        "verification": "pending",
+        "source": "https://www.archivum.dev/en/evertale/monster/0168"
+      }
+    ]
   },
   {
     "id": 121,
@@ -1628,7 +1677,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/贞德——光辉之女",
+      "https://wiki.biligame.com/evertale/贞德——光辉之女",
+      "https://wiki.biligame.com/evertale/贞德——光辉之女"
+    ]
   },
   {
     "id": 122,
@@ -1979,7 +2033,12 @@
         "description": "Ativa a habilidade de arma ao equipar uma lança."
       }
     ],
-    "infoSource": "https://wiki.biligame.com/evertale/佩里——海上欠债王"
+    "infoSource": "https://wiki.biligame.com/evertale/佩里——海上欠债王",
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/佩里——海上欠债王",
+      "https://wiki.biligame.com/evertale/佩里——海上欠债王",
+      "https://wiki.biligame.com/evertale/佩里——海上欠债王"
+    ]
   },
   {
     "id": 144,
@@ -1999,7 +2058,12 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "evolutionImagePages": [
+      "https://wiki.biligame.com/evertale/睡美人——湖畔的睡公主",
+      "https://wiki.biligame.com/evertale/睡美人——湖畔的睡公主",
+      "https://wiki.biligame.com/evertale/睡美人——湖畔的睡公主"
+    ]
   },
   {
     "id": 145,
