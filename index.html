@@ -72,7 +72,12 @@ function catalogPage(){
 }
 let catalogEntries=[];
 async function loadCatalog(){
- try {const res=await fetch('./catalogo.json');if(!res.ok)throw Error('Falha ao carregar');catalogEntries=await res.json();filterCatalog()}
+ try {const res=await fetch('./catalogo.json');if(!res.ok)throw Error('Falha ao carregar');catalogEntries=await res.json();
+ const portraitNames={'Perry — Admiral of Debt':'Perry — Admiral of Debt','Dark Lancelot':'Dark Lancelot — Black-Hearted Gunslinger','Mirai':'Mirai — Sparkling Idol'};
+ let modified=false;
+ for(const entry of catalogEntries){const name=portraitNames[entry.name];if(!name||!entry.imageUrl)continue;const owned=db.characters.find(c=>c.name===name);if(owned&&!owned.imageUrl){owned.imageUrl=entry.imageUrl;modified=true}}
+ if(modified)save();
+ filterCatalog()}
  catch(err){const el=document.getElementById('catalogCount');if(el)el.textContent='Não foi possível carregar catalogo.json. Para testar localmente, execute um servidor HTTP ou abra pela publicação no GitHub Pages.'}
 }
 function filterCatalog(){
