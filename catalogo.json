@@ -88,7 +88,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/白雪公主——纯雪的花嫁",
+      "gameId": "SnowWhiteBride",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 8,
@@ -140,7 +147,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/亚瑟王——骑士王的休息",
+      "gameId": "KingArthurSwimsuit",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 12,
@@ -179,7 +193,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/灰姑娘——水晶鞋公主",
+      "gameId": "CinderellaRegular",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 15,
@@ -1169,7 +1190,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/灰姑娘——水边的公主",
+      "gameId": "CinderellaSwimsuit",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 91,
@@ -1455,7 +1483,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/白雪公主——白与黑的公主",
+      "gameId": "SnowWhite",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 113,
@@ -1481,7 +1516,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/白雪公主——纯雪的侍女",
+      "gameId": "SnowWhiteMaid",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 115,
@@ -1559,7 +1601,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/赛勒斯——繁幻策动者",
+      "gameId": "Cyrus",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 121,
@@ -1572,7 +1621,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/贞德——光辉之女",
+      "gameId": "Jeanne",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 122,
@@ -1862,7 +1918,14 @@
       "https://pbs.twimg.com/media/GzMpy-jbcAAFbD2.jpg",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/佩里——海上欠债王",
+      "gameId": "PerryRegular",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 144,
@@ -1875,7 +1938,14 @@
       "",
       "",
       ""
-    ]
+    ],
+    "evolutionReference": {
+      "url": "https://wiki.biligame.com/evertale/睡美人——湖畔的睡公主",
+      "gameId": "IbarahimeSwimsuit",
+      "stagesDocumented": 3,
+      "artworkVerification": "pending",
+      "reviewed": "2026-10-08"
+    }
   },
   {
     "id": 145,
