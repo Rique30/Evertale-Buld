@@ -5,7 +5,12 @@
     "element": "Luz",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 2,
@@ -13,7 +18,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 3,
@@ -21,7 +31,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 4,
@@ -29,7 +44,12 @@
     "element": "Trevas",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 5,
@@ -37,7 +57,12 @@
     "element": "Trevas",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 6,
@@ -45,7 +70,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 7,
@@ -53,7 +83,12 @@
     "element": "Trevas",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 8,
@@ -61,7 +96,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 9,
@@ -69,7 +109,12 @@
     "element": "Luz",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 10,
@@ -77,7 +122,12 @@
     "element": "Água",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 11,
@@ -85,7 +135,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 12,
@@ -93,7 +148,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 13,
@@ -101,7 +161,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 14,
@@ -109,7 +174,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 15,
@@ -117,7 +187,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 16,
@@ -125,7 +200,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 17,
@@ -133,7 +213,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 18,
@@ -141,7 +226,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 19,
@@ -149,7 +239,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 20,
@@ -157,7 +252,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 21,
@@ -165,7 +265,12 @@
     "element": "Terra",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 22,
@@ -173,7 +278,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 23,
@@ -181,7 +291,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 24,
@@ -189,7 +304,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 25,
@@ -197,7 +317,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 26,
@@ -205,7 +330,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 27,
@@ -213,7 +343,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 28,
@@ -221,7 +356,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 29,
@@ -229,7 +369,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 30,
@@ -237,7 +382,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 31,
@@ -245,7 +395,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 32,
@@ -253,7 +408,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 33,
@@ -261,7 +421,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 34,
@@ -269,7 +434,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 35,
@@ -277,7 +447,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 36,
@@ -285,7 +460,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 37,
@@ -293,7 +473,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 38,
@@ -301,7 +486,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 39,
@@ -309,7 +499,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 40,
@@ -317,7 +512,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 41,
@@ -325,7 +525,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 42,
@@ -333,7 +538,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 43,
@@ -341,7 +551,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 44,
@@ -349,7 +564,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 45,
@@ -357,7 +577,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 46,
@@ -365,7 +590,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 47,
@@ -373,7 +603,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 48,
@@ -381,7 +616,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 49,
@@ -389,7 +629,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 50,
@@ -397,7 +642,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 51,
@@ -405,7 +655,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 52,
@@ -413,7 +668,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 53,
@@ -421,7 +681,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 54,
@@ -429,7 +694,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 55,
@@ -437,7 +707,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 56,
@@ -445,7 +720,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 57,
@@ -453,7 +733,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 58,
@@ -461,7 +746,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 59,
@@ -469,7 +759,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 60,
@@ -477,7 +772,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 61,
@@ -485,7 +785,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 62,
@@ -493,7 +798,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 63,
@@ -501,7 +811,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 64,
@@ -509,7 +824,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 65,
@@ -517,7 +837,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 66,
@@ -525,7 +850,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 67,
@@ -533,7 +863,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 68,
@@ -541,7 +876,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 69,
@@ -549,7 +889,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 70,
@@ -557,7 +902,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 71,
@@ -565,7 +915,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 72,
@@ -573,7 +928,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 73,
@@ -581,7 +941,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 74,
@@ -589,7 +954,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 75,
@@ -597,7 +967,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 76,
@@ -605,7 +980,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 77,
@@ -613,7 +993,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 78,
@@ -621,7 +1006,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 79,
@@ -629,7 +1019,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 80,
@@ -637,7 +1032,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 81,
@@ -645,7 +1045,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 82,
@@ -653,7 +1058,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 83,
@@ -661,7 +1071,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 84,
@@ -669,7 +1084,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 85,
@@ -677,7 +1097,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 86,
@@ -685,7 +1110,12 @@
     "element": "Terra",
     "rarity": "Invocação SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 87,
@@ -693,7 +1123,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 88,
@@ -703,7 +1138,12 @@
     "origin": "Evertale Wiki — lista indexada",
     "imageUrl": "https://pbs.twimg.com/media/GeHHNMDakAAcusd.jpg",
     "imageSource": "https://x.com/evertale_en/status/1867404079284265027",
-    "imageCredit": "Evertale Official"
+    "imageCredit": "Evertale Official",
+    "evolutionImages": [
+      "https://pbs.twimg.com/media/GeHHNMDakAAcusd.jpg",
+      "",
+      ""
+    ]
   },
   {
     "id": 89,
@@ -711,7 +1151,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 90,
@@ -719,7 +1164,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 91,
@@ -727,7 +1177,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 92,
@@ -735,7 +1190,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 93,
@@ -743,7 +1203,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 94,
@@ -751,7 +1216,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 95,
@@ -759,7 +1229,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 96,
@@ -767,7 +1242,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 97,
@@ -775,7 +1255,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 98,
@@ -783,7 +1268,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 99,
@@ -791,7 +1281,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 100,
@@ -799,7 +1294,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 101,
@@ -807,7 +1307,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 102,
@@ -815,7 +1320,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 103,
@@ -823,7 +1333,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 104,
@@ -831,7 +1346,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 105,
@@ -839,7 +1359,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 106,
@@ -847,7 +1372,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 107,
@@ -855,7 +1385,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 108,
@@ -863,7 +1398,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 109,
@@ -871,7 +1411,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 110,
@@ -879,7 +1424,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 111,
@@ -887,7 +1437,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 112,
@@ -895,7 +1450,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 113,
@@ -903,7 +1463,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 114,
@@ -911,7 +1476,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 115,
@@ -919,7 +1489,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 116,
@@ -927,7 +1502,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 117,
@@ -935,7 +1515,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 118,
@@ -943,7 +1528,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 119,
@@ -951,7 +1541,12 @@
     "element": "Raio",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 120,
@@ -959,7 +1554,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 121,
@@ -967,7 +1567,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 122,
@@ -975,7 +1580,12 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 123,
@@ -983,7 +1593,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 124,
@@ -991,7 +1606,12 @@
     "element": "Terra",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 125,
@@ -999,7 +1619,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 126,
@@ -1007,7 +1632,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 127,
@@ -1015,7 +1645,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 128,
@@ -1023,7 +1658,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 129,
@@ -1033,7 +1673,12 @@
     "origin": "Evertale Wiki — lista indexada",
     "imageUrl": "https://cdn.archivum.dev/file/butterflytheory/evertale/monsters/d6b72a62b921/portrait.png",
     "imageSource": "https://www.archivum.dev/evertale/monster/f392ff86cf",
-    "imageCredit": "Archivum — Evertale"
+    "imageCredit": "Archivum — Evertale",
+    "evolutionImages": [
+      "https://cdn.archivum.dev/file/butterflytheory/evertale/monsters/d6b72a62b921/portrait.png",
+      "",
+      ""
+    ]
   },
   {
     "id": 130,
@@ -1041,7 +1686,12 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 131,
@@ -1049,7 +1699,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 132,
@@ -1057,7 +1712,12 @@
     "element": "Raio",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 133,
@@ -1065,7 +1725,12 @@
     "element": "Fogo",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 134,
@@ -1073,7 +1738,12 @@
     "element": "Trevas",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 135,
@@ -1081,7 +1751,12 @@
     "element": "Trevas",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 136,
@@ -1089,7 +1764,12 @@
     "element": "Fogo",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 137,
@@ -1097,7 +1777,12 @@
     "element": "Terra",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 138,
@@ -1105,7 +1790,12 @@
     "element": "Trevas",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 139,
@@ -1113,7 +1803,12 @@
     "element": "Luz",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 140,
@@ -1121,7 +1816,12 @@
     "element": "Trevas",
     "rarity": "SR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 141,
@@ -1129,7 +1829,12 @@
     "element": "Água",
     "rarity": "SR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 142,
@@ -1137,7 +1842,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 143,
@@ -1147,7 +1857,12 @@
     "origin": "Cadastro complementar; revisar versão",
     "imageUrl": "https://pbs.twimg.com/media/GzMpy-jbcAAFbD2.jpg",
     "imageSource": "https://x.com/evertale_en/status/1966336212521849067",
-    "imageCredit": "Evertale Official"
+    "imageCredit": "Evertale Official",
+    "evolutionImages": [
+      "https://pbs.twimg.com/media/GzMpy-jbcAAFbD2.jpg",
+      "",
+      ""
+    ]
   },
   {
     "id": 144,
@@ -1155,7 +1870,12 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 145,
@@ -1163,7 +1883,12 @@
     "element": "Fogo",
     "rarity": "SSR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 146,
@@ -1171,6 +1896,11 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "",
+    "evolutionImages": [
+      "",
+      "",
+      ""
+    ]
   }
 ]
