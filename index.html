@@ -23,7 +23,7 @@ body{background-image:linear-gradient(90deg,rgba(4,10,23,.89),rgba(8,16,33,.78))
 @media(max-width:700px){.detailHero{grid-template-columns:1fr}.detailPortrait{max-width:330px}}
 .evolGallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:18px 0}.evolStage{border:1px solid #425978;background:#0c1a2d;border-radius:12px;padding:9px;text-align:center}.evolStage.active{border-color:#60cdfa;box-shadow:0 0 0 2px #1775a066}.evolStage{color:inherit;cursor:pointer;font:inherit;width:100%}.evolStage .avatar{height:120px;display:grid;place-items:center;font-size:26px;overflow:hidden}.evolStage img{max-width:100%;height:100%;object-fit:contain}.evolStage small{display:block;color:#b1c5dd;margin-top:5px}@media(max-width:570px){.evolGallery{grid-template-columns:repeat(3,minmax(0,1fr))}.evolStage .avatar{height:80px}}</style>
 </head><body>
-<div class="layout"><aside><div class="logo">✦ Evertale Manager <small>Seu inventário, seu progresso</small></div><nav id="nav"></nav></aside>
+<div class="layout"><aside><div class="logo">✦ Evertale Manager <small>Seu inventário, seu progresso · Atualização 08/10 v2.1</small></div><nav id="nav"></nav></aside>
 <main><div class="top"><div><h1 id="title">Visão geral</h1><div class="note">Gerencie sua coleção e planeje seus próximos upgrades.</div></div><div class="row"><button onclick="exportData()">↓ Exportar backup</button><button onclick="document.getElementById('importFile').click()">↑ Importar backup</button><input hidden type="file" id="importFile" accept=".json,application/json" onchange="importData(event)"/></div></div><div id="app"></div><div id="modalRoot"></div><div class="status" id="status"></div><footer>Projeto independente de fãs. Não afiliado à ZigZaGame. Personagens e custos são editáveis; confirme valores no jogo. Dados salvos neste navegador.</footer></main></div>
 <script>
 const KEY='evertale-manager-v1';
@@ -72,13 +72,14 @@ function catalogPage(){
 }
 let catalogEntries=[];
 async function loadCatalog(){
- try {const res=await fetch('./catalogo.json');if(!res.ok)throw Error('Falha ao carregar');catalogEntries=await res.json();
+ try {const res=await fetch('./catalogo.json?site=v2.1');if(!res.ok)throw Error('Falha ao carregar');catalogEntries=await res.json();
  const portraitNames={'Perry — Admiral of Debt':'Perry — Admiral of Debt','Dark Lancelot':'Dark Lancelot — Black-Hearted Gunslinger','Mirai':'Mirai — Sparkling Idol'};
  let modified=false;
  for(const entry of catalogEntries){const name=portraitNames[entry.name]||entry.name;const owned=db.characters.find(c=>c.name===name);if(!owned)continue;if(!owned.imageUrl&&entry.imageUrl){owned.imageUrl=entry.imageUrl;modified=true}if(!owned.story&&entry.story){owned.story=entry.story;modified=true}if((!owned.skills||!owned.skills.length)&&entry.skills?.length){owned.skills=entry.skills;modified=true}if(!Array.isArray(owned.evolutionImages)){owned.evolutionImages=[owned.imageUrl||entry.imageUrl||'',...(entry.evolutionImages||[]).slice(1,3)];modified=true}else if(entry.evolutionImages){for(let i=0;i<3;i++){if(!owned.evolutionImages[i]&&entry.evolutionImages[i]){owned.evolutionImages[i]=entry.evolutionImages[i];modified=true}}}}
- if(modified){save();if(page==='detail')render()}
+ if(modified)save();
+ if(page==='detail')render();
  filterCatalog()}
- catch(err){const el=document.getElementById('catalogCount');if(el)el.textContent='Não foi possível carregar catalogo.json. Para testar localmente, execute um servidor HTTP ou abra pela publicação no GitHub Pages.'}
+ catch(err){toast('Erro ao carregar catálogo: '+err.message);const el=document.getElementById('catalogCount');if(el)el.textContent='Não foi possível carregar catalogo.json. Para testar localmente, execute um servidor HTTP ou abra pela publicação no GitHub Pages.'}
 }
 function filterCatalog(){
  const root=document.getElementById('catalogCards');if(!root)return;
@@ -94,7 +95,7 @@ function addCatalogEntry(id){
 }
 
 
-function showDetail(id){detailId=id;detailTab='skills';page='detail';render()}
+function showDetail(id){detailId=id;detailTab='skills';activeEvolution=0;page='detail';render()}
 function evolutionImages(c){const list=Array.isArray(c.evolutionImages)?c.evolutionImages:[];return Array.from({length:3},(_,i)=>list[i]||(i===0?c.imageUrl:''));}
 function evolutionGallery(c){const pics=evolutionImages(c);return '<h3>Galeria de evolução</h3><div class="evolGallery">'+pics.map((src,i)=>'<div class="evolStage"><div class="avatar">'+(src?portrait(src,'✦'):'<span class="muted">Imagem pendente</span>')+'</div><small>Arte '+(i+1)+'</small></div>').join('')+'</div><p class="note">As três artes devem pertencer à mesma versão do personagem. Nenhuma imagem é inventada.</p>'}
 let activeEvolution=0;
@@ -102,11 +103,13 @@ function selectEvolution(i){activeEvolution=i;render()}
 function detailPage(){
  const c=db.characters.find(x=>x.id===detailId);if(!c)return panel('Personagem não encontrado','<button onclick="navigate(\'characters\')">Voltar</button>');
  const emoji=({'Fogo':'🔥','Água':'💧','Luz':'☀️','Trevas':'🌙','Raio':'⚡','Terra':'🌿'}[c.element]||'✦');
- const images=evolutionImages(c),selected=images[activeEvolution]||images.find(Boolean)||c.imageUrl;
+ const source=catalogEntries.find(x=>x.name===c.name)||catalogEntries.find(x=>(x.name==='Dark Lancelot'&&c.name.startsWith('Dark Lancelot'))||(x.name==='Mirai'&&c.name.startsWith('Mirai')))||{};
+ const profile={...source,...c,story:c.story||source.story||'',skills:(c.skills?.length?c.skills:source.skills)||[],imageUrl:c.imageUrl||source.imageUrl||'',evolutionImages:(Array.isArray(c.evolutionImages)&&c.evolutionImages.some(Boolean)?c.evolutionImages:source.evolutionImages)||[]};
+ const images=evolutionImages(profile),selected=images[activeEvolution]||images.find(Boolean)||profile.imageUrl;
  const main='<div class="detailHero"><div class="detailPortrait">'+portrait(selected,emoji)+'</div><div><div class="row"><span class="tag">'+esc(c.rarity)+'</span><span class="tag">'+esc(c.element)+'</span><span class="tag">Nv. '+Number(c.level||1)+'</span></div><h1 style="margin:16px 0">'+esc(c.name)+'</h1><p>Limite desbloqueado: '+Number(c.limit||80)+' · Despertares: '+Number(c.awakenings||0)+'</p><div class="row"><button class="primary" onclick="openCharForm(\''+c.id+'\')">✎ Editar ficha</button><button onclick="toggleOwned(\''+c.id+'\')">'+(c.owned?'✓ Na minha coleção':'♡ Adicionar à coleção')+'</button></div></div></div>';
- const gallery='<h3 style="margin-top:24px">Formas do personagem</h3><div class="evolGallery">'+images.map((src,i)=>'<button type="button" class="evolStage '+(i===activeEvolution?'active':'')+'" onclick="selectEvolution('+i+')"><div class="avatar">'+(src?portrait(src,'✦'):'<span class="muted">Imagem ainda não encontrada</span>')+'</div><small>Forma '+(i+1)+(i===0?' · inicial':i===2?' · final':' · evoluída')+'</small></button>').join('')+'</div><p class="note">As formas 2 e 3 serão exibidas após a confirmação das imagens corretas desta versão.</p>'+(c.evolutionReference?.url?'<p><a href="'+esc(c.evolutionReference.url)+'" target="_blank" rel="noopener noreferrer" style="color:#8cd8ee">Consultar imagens das três formas na fonte ↗</a></p>':'');
+ const gallery='<h3 style="margin-top:24px">Formas do personagem</h3><div class="evolGallery">'+images.map((src,i)=>'<button type="button" class="evolStage '+(i===activeEvolution?'active':'')+'" onclick="selectEvolution('+i+')"><div class="avatar">'+(src?portrait(src,'✦'):'<span class="muted">Imagem ainda não encontrada</span>')+'</div><small>Forma '+(i+1)+(i===0?' · inicial':i===2?' · final':' · evoluída')+'</small></button>').join('')+'</div><p class="note">As formas 2 e 3 serão exibidas após a confirmação das imagens corretas desta versão.</p>'+(source.evolutionReference?.url?'<p><a href="'+esc(source.evolutionReference.url)+'" target="_blank" rel="noopener noreferrer" style="color:#8cd8ee">Consultar imagens das três formas na fonte ↗</a></p>':'');
  const tabs='<div class="tabRow">'+[['skills','Habilidades'],['history','História'],['weapons','Armas'],['evolution','Evolução']].map(t=>'<button class="'+(detailTab===t[0]?'selected':'')+'" onclick="detailTab=\''+t[0]+'\';render()">'+t[1]+'</button>').join('')+'</div>';
- return panel('‹ <a href="#" onclick="navigate(\'characters\');return false" style="color:#8cd8ee">Voltar aos personagens</a>',main+gallery+tabs+detailBody(c));
+ return panel('‹ <a href="#" onclick="navigate(\'characters\');return false" style="color:#8cd8ee">Voltar aos personagens</a>',main+gallery+tabs+detailBody(profile));
 }
 function detailBody(c){
  if(detailTab==='skills')return '<h3>Habilidades</h3>'+((c.skills||[]).length?(c.skills||[]).map(s=>'<div class="item"><strong>'+esc(s.name)+'</strong><span class="tag" style="margin-left:10px">'+esc(s.type)+'</span><p>'+esc(s.description)+'</p></div>').join(''):'<p>As habilidades desta versão ainda não foram cadastradas. Adicione-as na ficha para evitar confundir versões do jogo.</p>');
