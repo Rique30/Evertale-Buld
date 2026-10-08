@@ -4,1021 +4,1167 @@
     "name": "Clarice (Balé)",
     "element": "Luz",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 2,
     "name": "Jeanne (Anjo)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 3,
     "name": "Ishikawa Goemon",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 4,
     "name": "Kagemusha",
     "element": "Trevas",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 5,
     "name": "Mikaela (Demônio)",
     "element": "Trevas",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 6,
     "name": "Nobunaga",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 7,
     "name": "Branca de Neve (Noiva)",
     "element": "Trevas",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 8,
     "name": "Lupin",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 9,
     "name": "Mikaela",
     "element": "Luz",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 10,
     "name": "Mikaela (Dia dos Namorados)",
     "element": "Água",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 11,
     "name": "Rei Arthur (Verão)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 12,
     "name": "Clarice (Piloto de Corrida)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 13,
     "name": "Lucifer",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 14,
     "name": "Cinderela",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 15,
     "name": "Jeanne (Demônio, Verão)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 16,
     "name": "Da Vinci",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 17,
     "name": "Victoria",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 18,
     "name": "Elizabeth",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 19,
     "name": "Basilisk",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 20,
     "name": "A Bela e a Fera",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 21,
     "name": "Belle",
     "element": "Terra",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 22,
     "name": "Freya (Ardente)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 23,
     "name": "Hibiki",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 24,
     "name": "Kongming",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 25,
     "name": "Momotaro",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 26,
     "name": "Sun Wukong (Noiva)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 27,
     "name": "Zeus",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 28,
     "name": "Uesugi Kenshin",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 29,
     "name": "Anastasia",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 30,
     "name": "Date Masamune",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 31,
     "name": "Lu Bu",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 32,
     "name": "Unicórnio",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 33,
     "name": "Elmina (Coelhinha)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 34,
     "name": "Rizette (Noiva)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 35,
     "name": "Elmina (Moderna)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 36,
     "name": "Kirin (Garota)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 37,
     "name": "Rena",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 38,
     "name": "Merlin",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 39,
     "name": "Drácula",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 40,
     "name": "Claire",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 41,
     "name": "Tiamat",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 42,
     "name": "Napoleon",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 43,
     "name": "Murasaki Shikibu",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 44,
     "name": "Nike",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 45,
     "name": "Fornaxos",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 46,
     "name": "Hokusai",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 47,
     "name": "Clarice (Sombra de Sangue)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 48,
     "name": "Himiko",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 49,
     "name": "Momoka",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 50,
     "name": "Otohime",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 51,
     "name": "Pinóquio",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 52,
     "name": "Kaguya-hime",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 53,
     "name": "Chopin",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 54,
     "name": "Dark Callen",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 55,
     "name": "Rapunzel",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 56,
     "name": "Sakamoto Ryoma",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 57,
     "name": "Aria",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 58,
     "name": "Gawain (Lua Negra)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 59,
     "name": "Rizette (Reencarnação, Seguidora)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 60,
     "name": "Saya",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 61,
     "name": "Apollo e Artemis",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 62,
     "name": "Bahamut (Garota)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 63,
     "name": "Maxima",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 64,
     "name": "Mysha (Vendaval)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 65,
     "name": "Dragão Divino",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 66,
     "name": "Rei Arthur",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 67,
     "name": "Ruvy",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 68,
     "name": "Hibiki (Trevas)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 69,
     "name": "Mysha (Submundo)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 70,
     "name": "Gawain",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 71,
     "name": "Elmina (Verão)",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 72,
     "name": "Clarice (Verão)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 73,
     "name": "Shuten Doji",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 74,
     "name": "Excalibur",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 75,
     "name": "Sasaki Kojiro",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 76,
     "name": "Finn",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 77,
     "name": "Hijikata Toshizo",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 78,
     "name": "Zekuu",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 79,
     "name": "Anya (Nova Armadura)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 80,
     "name": "Rizette (Valquíria)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 81,
     "name": "Kaguya-hime (Trevas)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 82,
     "name": "Siegfried",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 83,
     "name": "Venus",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 84,
     "name": "Kaguya-hime (Verão)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 85,
     "name": "Frankenstein",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 86,
     "name": "Mary",
     "element": "Terra",
     "rarity": "Invocação SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 87,
     "name": "Akatsuki",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 88,
     "name": "Dark Lancelot",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 89,
     "name": "Lancelot",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 90,
     "name": "Cinderela (Verão)",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 91,
     "name": "Alice do Caos",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 92,
     "name": "Uraha (Verão)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 93,
     "name": "Rizette (Reencarnação)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 94,
     "name": "Antares (Moderna)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 95,
     "name": "Ludmilla (Trevas)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 96,
     "name": "Tristan",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 97,
     "name": "Mibone",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 98,
     "name": "Cthulhu",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 99,
     "name": "Thor",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 100,
     "name": "Astrid (Noiva)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 101,
     "name": "Freya",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 102,
     "name": "Mirai (Halloween)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 103,
     "name": "Rizette (Verão)",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 104,
     "name": "Anya (Ídolo)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 105,
     "name": "Cinderela (Trevas)",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 106,
     "name": "Anya (Noiva)",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 107,
     "name": "Ludmilla (Seguidora)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 108,
     "name": "Rizette (Festival da Primavera)",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 109,
     "name": "Sakura",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 110,
     "name": "Dom Quixote",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 111,
     "name": "Norza",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 112,
     "name": "Branca de Neve",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 113,
     "name": "Rizette (Reencarnação, Natal)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 114,
     "name": "Branca de Neve (Empregada)",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 115,
     "name": "Lavanbelde",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 116,
     "name": "Tio",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 117,
     "name": "Callen (Noiva)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 118,
     "name": "Anya (Terra)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 119,
     "name": "Imran",
     "element": "Raio",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 120,
     "name": "Cyrus",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 121,
     "name": "Jeanne",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 122,
     "name": "Merdain",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 123,
     "name": "Clarice",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 124,
     "name": "Ludmilla (Quimono)",
     "element": "Terra",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 125,
     "name": "Rizette",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 126,
     "name": "Anya (Verão)",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 127,
     "name": "Haku",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 128,
     "name": "Rei",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 129,
     "name": "Mirai",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 130,
     "name": "Louis",
     "element": "Luz",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 131,
     "name": "Kaidaros",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 132,
     "name": "Shanna",
     "element": "Raio",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 133,
     "name": "Alba",
     "element": "Fogo",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 134,
     "name": "Crescent",
     "element": "Trevas",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 135,
     "name": "Vonn",
     "element": "Trevas",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 136,
     "name": "Zamal",
     "element": "Fogo",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 137,
     "name": "Luna",
     "element": "Terra",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 138,
     "name": "Olivia",
     "element": "Trevas",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 139,
     "name": "Nanami",
     "element": "Luz",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 140,
     "name": "Valsia",
     "element": "Trevas",
     "rarity": "SR",
-    "origin": "Evertale Wiki — lista indexada"
+    "origin": "Evertale Wiki — lista indexada",
+    "imageUrl": ""
   },
   {
     "id": 141,
     "name": "Zeshua",
     "element": "Água",
     "rarity": "SR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   },
   {
     "id": 142,
     "name": "Alira",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   },
   {
     "id": 143,
     "name": "Perry — Admiral of Debt",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   },
   {
     "id": 144,
     "name": "Sleeping Beauty — Lakeside Reverie",
     "element": "Água",
     "rarity": "SSR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   },
   {
     "id": 145,
     "name": "Queen of Hearts — Red Arbiter",
     "element": "Fogo",
     "rarity": "SSR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   },
   {
     "id": 146,
     "name": "Basilisk — Master of Wraiths",
     "element": "Trevas",
     "rarity": "SSR",
-    "origin": "Cadastro complementar; revisar versão"
+    "origin": "Cadastro complementar; revisar versão",
+    "imageUrl": ""
   }
 ]
