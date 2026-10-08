@@ -701,7 +701,9 @@
     "element": "Trevas",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "https://pbs.twimg.com/media/GeHHNMDakAAcusd.jpg",
+    "imageSource": "https://x.com/evertale_en/status/1867404079284265027",
+    "imageCredit": "Evertale Official"
   },
   {
     "id": 89,
@@ -1029,7 +1031,9 @@
     "element": "Luz",
     "rarity": "SSR",
     "origin": "Evertale Wiki — lista indexada",
-    "imageUrl": ""
+    "imageUrl": "https://cdn.archivum.dev/file/butterflytheory/evertale/monsters/d6b72a62b921/portrait.png",
+    "imageSource": "https://www.archivum.dev/evertale/monster/f392ff86cf",
+    "imageCredit": "Archivum — Evertale"
   },
   {
     "id": 130,
@@ -1141,7 +1145,9 @@
     "element": "Água",
     "rarity": "SSR",
     "origin": "Cadastro complementar; revisar versão",
-    "imageUrl": ""
+    "imageUrl": "https://pbs.twimg.com/media/GzMpy-jbcAAFbD2.jpg",
+    "imageSource": "https://x.com/evertale_en/status/1966336212521849067",
+    "imageCredit": "Evertale Official"
   },
   {
     "id": 144,
