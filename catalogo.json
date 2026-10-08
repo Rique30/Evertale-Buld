@@ -1925,7 +1925,61 @@
       "stagesDocumented": 3,
       "artworkVerification": "pending",
       "reviewed": "2026-10-08"
-    }
+    },
+    "story": "Perry nasceu em um país distante, conhecido por sua tecnologia avançada. Seu pai, Grims, era cientista e explorador, e os tesouros e minerais que trazia das expedições despertaram nela o desejo de conhecer terras desconhecidas. Depois de conquistar autorização oficial para se tornar aventureira, Perry comprou um navio com um empréstimo do governo. O pai, porém, havia partido sem dar notícias. Sem descobertas para pagar a dívida, ela passou a vigiar obsessivamente os suprimentos da embarcação e a perseguir qualquer rumor de tesouros.\n\nResumo adaptado da biografia da personagem. Fonte: evertale.gamewiki.jp/char_350/",
+    "skills": [
+      {
+        "name": "Canhão da Abertura",
+        "type": "Ativa · +4 Espírito · 70 TU",
+        "description": "Ataca dois inimigos (200% de dano; 400% se houver pelo menos um inimigo adormecido em campo). Recupera HP equivalente ao dano causado e ignora determinadas reduções de dano, efeitos de proteção reativa e contra-ataque."
+      },
+      {
+        "name": "Diplomacia Sonolenta",
+        "type": "Ativa · −3 Espírito · 50 TU",
+        "description": "Remove resistências ao sono e efeitos de queimadura dos inimigos; aplica sono forçado por 200 TU em alvos aleatórios, em quatro ativações. Pode conceder um turno imediato se não houver inimigo dormindo no início do turno. Limitada a dez usos por combate."
+      },
+      {
+        "name": "Ataque Avançado",
+        "type": "Ativa · +2 Espírito · 1 TU",
+        "description": "Causa 300% de dano a um inimigo e aplica sono profundo por 100 TU, mesmo que ele já tenha dormido. Ignora redução de dano; 50 TU de espera entre usos."
+      },
+      {
+        "name": "Lançar Âncora",
+        "type": "Ativa · −3 Espírito · 80 TU",
+        "description": "Após causar dano com outra habilidade ativa, ataca todos os inimigos (200%, ou 500% contra inimigos dormindo). Ignora certas defesas, efeitos reativos e contra-ataques."
+      },
+      {
+        "name": "Capitã Endividada",
+        "type": "Passiva",
+        "description": "Imune a queimadura; seus ataques não despertam alvos. Recebe menos dano de ataques, com redução adicional conforme os inimigos em sono ou queimadura. Pode se purificar e ganhar turno ao ser atacada; a chance aumenta com despertares."
+      },
+      {
+        "name": "Chegada do Navio Negro",
+        "type": "Passiva",
+        "description": "Pode sobreviver a um golpe fatal com 1 HP; concede recuperação periódica aos aliados e benefícios de Espírito para aliados de Água. Aplica resistências a sono e queimadura em condições específicas."
+      },
+      {
+        "name": "Bônus de HP Nv. 3",
+        "type": "Passiva",
+        "description": "Aumenta o HP máximo em 1.200."
+      },
+      {
+        "name": "Bônus de Ataque Nv. 3",
+        "type": "Passiva",
+        "description": "Aumenta o ataque em 300."
+      },
+      {
+        "name": "Resistência a Fogo Nv. 3",
+        "type": "Passiva",
+        "description": "Reduz em 10% o dano recebido de ataques de inimigos de Fogo."
+      },
+      {
+        "name": "Especialização em Lança",
+        "type": "Passiva",
+        "description": "Ativa a habilidade de arma ao equipar uma lança."
+      }
+    ],
+    "infoSource": "https://wiki.biligame.com/evertale/佩里——海上欠债王"
   },
   {
     "id": 144,
