@@ -28,3 +28,9 @@ O backup em JSON permite transferir informações para outro dispositivo e prote
 - Testes automatizados e migração futura para Next.js.
 
 Este é um projeto de fãs independente, sem afiliação com a ZigZaGame.
+
+## Novo visual e fichas individuais
+- Fichas de personagem com animação de entrada, abas **Habilidades**, **História**, **Armas** e **Evolução**.
+- Formulário de adicionar/editar personagem, com história e habilidades separadas por linha no formato `Nome | Tipo | Descrição`.
+- O tema procura a imagem `assets/fundo-evertale.png`. Para exibir o fundo personalizado, faça upload de um PNG com esse caminho no repositório.
+- Habilidades e histórias começam vazias até serem verificadas e cadastradas; o aplicativo não inventa descrições de personagens.
