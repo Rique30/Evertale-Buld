@@ -85,7 +85,7 @@ function filterCatalog(){
  const q=(document.getElementById('catalogSearch')?.value||'').toLowerCase(),elem=document.getElementById('catalogElement')?.value||'',rarity=document.getElementById('catalogRarity')?.value||'';
  const out=catalogEntries.filter(c=>(!q||c.name.toLowerCase().includes(q))&&(!elem||c.element===elem)&&(!rarity||c.rarity===rarity));
  document.getElementById('catalogCount').textContent=out.length+' de '+catalogEntries.length+' registros importados';
- root.innerHTML=out.map(c=>'<div class="character"><div class="avatar">'+portrait(c.imageUrl,({'Fogo':'🔥','Água':'💧','Luz':'☀️','Trevas':'🌙','Raio':'⚡','Terra':'🌿'}[c.element]||'✦'))+'</div><span class="tag">'+esc(c.rarity)+'</span> <small>'+esc(c.element)+'</small><b>'+esc(c.name)+'</b><small>Habilidades ainda não cadastradas</small><div style="margin-top:11px"><button onclick="addCatalogEntry('+c.id+')">+ Tenho esse</button></div></div>').join('');
+ root.innerHTML=out.map(c=>'<div class="character"><div class="avatar">'+portrait(c.imageUrl,({'Fogo':'🔥','Água':'💧','Luz':'☀️','Trevas':'🌙','Raio':'⚡','Terra':'🌿'}[c.element]||'✦'))+'</div><span class="tag">'+esc(c.rarity)+'</span> <small>'+esc(c.element)+'</small><b>'+esc(c.name)+'</b><small>'+((c.skills||[]).length?((c.skills||[]).length+' habilidades cadastradas'):'Habilidades pendentes')+'</small><small style="display:block">'+(c.story?'✓ História cadastrada':'História pendente')+' · Formas '+((c.evolutionImages||[]).filter(Boolean).length)+'/3</small><div style="margin-top:11px"><button onclick="addCatalogEntry('+c.id+')">+ Tenho esse</button></div></div>').join('');
 }
 function addCatalogEntry(id){
  const c=catalogEntries.find(x=>x.id===id);if(!c)return;
