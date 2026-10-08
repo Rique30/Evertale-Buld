@@ -1,0 +1,24 @@
+name: Importar imagens autorizadas
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Baixar imagens aprovadas e atualizar o catálogo
+        run: python scripts/import_images.py
+      - name: Registrar novos retratos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/personagens catalogo.json
+          if ! git diff --cached --quiet; then
+            git commit -m "assets: importar imagens aprovadas"
+            git push
+          fi
